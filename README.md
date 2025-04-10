@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Japa, my nickname is Matheus
+- 👋 Hi, I’m Matheus
 - 🌱 I’m currently learning python
 - 📫 How to reach me: yuuji061@usp.br
 
